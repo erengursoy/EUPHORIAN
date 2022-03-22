@@ -1,0 +1,11 @@
+@tailwind base;
+.MostraNuova {
+    font-family: "mostra-nuova";
+}
+
+.Helvetica {
+    font-family: "Helvetica";
+}
+
+@tailwind components;
+@tailwind utilities;
