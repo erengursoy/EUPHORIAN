@@ -20,17 +20,7 @@ module.exports = {
                 '45px': '45px',
             },
 
-            backgroundImage: {
 
-                'story-background-one': "url('~/assets/images/WhatsApp Image 2022-02-18 at 23.55.31.jpeg')",
-                'story-background-two': "url('~/assets/images/WhatsApp Image 2022-03-03 at 23.36.21.jpeg')",
-                'story-background-three': "url('~/assets/images/WhatsApp Image 2022-03-03 at 23.35.56.jpeg')",
-                'main-bg': "linear-gradient(#d2a4ef,#955555,#4c2f2a,#30657c)",
-                'home-bg': "linear-gradient(#363c5e,#955555,#4c2a49)",
-                'home-card-img': "url('~/assets/images/background-9.png')",
-                'about-card-img': "url('~/assets/images/background-10.png')"
-
-            },
             backdropBrightness: {
                 490: '4.9',
 
@@ -40,10 +30,7 @@ module.exports = {
                 '5xl': "90px",
                 '4xl': "40px"
             },
-            transitionProperty: {
-                'height': 'height',
-                'spacing': 'margin, padding',
-            },
+
             spacing: {
                 '0.1': '1px',
                 '0.2': '2px',
@@ -59,25 +46,12 @@ module.exports = {
                 'roadmap-stick': '#fbfbac',
                 'team-text': '#a80000',
             },
-            rotate: {
-                '120': '120deg',
-                '70': '70deg',
-                '60': '60deg'
-            },
-            zIndex: {
-                '1': '1',
-            }
+
 
 
 
         },
     },
-    variants: {
-        width: ["responsive", "hover", "focus"],
-        position: ["responsive", "hover", "focus"],
-        gridTemplateColumns: ["responsive", "hover", "focus"],
-        gridColumnEnd: ["responsive", "hover", "focus"],
-        gridColumnStart: ["responsive", "hover", "focus"],
-    },
+
     plugins: [],
 }
