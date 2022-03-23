@@ -13,7 +13,7 @@
         </h1>
         <div class="container mx-auto mt-20">
           <div class="grid grid-rows-1">
-            <div class="grid grid-cols-1 text-white px-20 md:px-40 lg:px-72">
+            <div class="grid grid-cols-1 text-white px-10 md:px-32 lg:px-72">
               <div
                 class="
                   title
@@ -30,7 +30,7 @@
                 <img src="~assets/png/wed.png" alt="" />
               </div>
               <div class="text text-center Helvetica font-semibold pt-10">
-                <p class="text-xs lg:text-base">
+                <p class="text-xs md:text-sm lg:text-base">
                   Are you ready to join the first Ape NFT Wedding Ceremony?<br />
                   Just hold your Euphorian Ape for 2 weeks,<br />
                   Be sure that you have another ape NFT in your collection
@@ -61,7 +61,7 @@
                 <img src="~assets/png/mirror.png" alt="" />
               </div>
               <div class="text text-center Helvetica font-semibold pt-10">
-                <p class="text-xs lg:text-base">
+                <p class="text-xs md:text-sm lg:text-base">
                   Euphoria Make Up Company will put on make-up on <br />
                   your NFTs. You will have 1/1 derivative NFT.
                 </p>
@@ -83,7 +83,7 @@
                 <img src="~assets/png/EUPHORIA DOLARI.png" alt="" />
               </div>
               <div class="text text-center Helvetica font-semibold pt-10">
-                <p class="text-xs lg:text-base">Possibility of Active Staking for holders.</p>
+                <p class="text-xs md:text-sm lg:text-base">Possibility of Active Staking for holders.</p>
               </div>
             </div>
           </div>

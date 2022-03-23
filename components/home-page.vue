@@ -42,6 +42,9 @@
                       MostraNuova
                       font-semibold
                       tracking-wider 
+                      hover:scale-110 
+                  transform
+        transition-all
                     "
                   >
                     MINT

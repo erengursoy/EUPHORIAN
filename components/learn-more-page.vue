@@ -2,7 +2,7 @@
      <div id="learn-more">
         <div class="container mx-auto mt-40">
           <div class="grid grid-rows-1">
-            <div class="grid grid-cols-1 text-white px-20 md:px-40 lg:px-80">
+            <div class="grid grid-cols-1 text-white px-10 md:px-32 lg:px-80">
               <div
                 class="
                   title

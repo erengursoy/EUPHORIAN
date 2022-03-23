@@ -34,7 +34,7 @@
                     mint on (TBC)
                   </p>
                 </div>
-                <div class="image w-1/2 lg:w-1/4 m-10 lg:m-32">
+                <div class="image w-1/2 lg:w-1/4 m-10 lg:mt-28 lg:ml-36 lg:mb-20">
                   <img
                     class="lg:ml-28"
                     src="~assets/png/Gold leaves-2.png"
@@ -58,7 +58,7 @@
                     holders. 2| 2 x 1 ETH giveaway for 2 Euphorian holders.
                   </p>
                 </div>
-                <div class="image w-1/2 lg:w-1/4 m-10 lg:m-32">
+                <div class="image w-1/2 lg:w-1/4 m-10 lg:mt-28 lg:ml-36 lg:mb-32">
                   <img
                     class="lg:ml-28"
                     src="~assets/png/Magic Moment-2.png"
@@ -82,7 +82,7 @@
                     holders. 2| 4 x 1 ETH giveaway for 4 Euphorian holders.
                   </p>
                 </div>
-                <div class="image w-1/2 lg:w-1/4 m-10 lg:m-32">
+                <div class="image w-1/2 lg:w-1/4 m-10 lg:mt-28 lg:ml-36 lg:mb-20">
                   <img class="lg:ml-28" src="~assets/png/112-2.png" alt="" />
                 </div>
               </div>
@@ -99,7 +99,7 @@
               </div>
 
               <div class="col-span-4">
-                <div class="image w-1/2 lg:w-1/4 m-10 lg:m-32">
+                <div class="image w-1/2 lg:w-1/4 m-10 lg:mt-20 lg:ml-36 lg:mb-24">
                   <img src="~assets/png/Eternal Sunshine-2.png" alt="" />
                 </div>
                 <div
@@ -120,7 +120,7 @@
                     2| 1 ETH giveaway for 1 Euphorian holder.
                   </p>
                 </div>
-                <div class="image w-1/2 lg:w-1/4 m-10 lg:m-32">
+                <div class="image w-1/2 lg:w-1/4 m-10 lg:mt-28 lg:ml-36 lg:mb-20">
                   <img src="~assets/png/Sea of Love kopya-2.png" alt="" />
                 </div>
                 <div
@@ -141,7 +141,7 @@
                     2| 3 x 1 ETH giveaway for 3 Euphorian holders.
                   </p>
                 </div>
-                <div class="image w-1/2 lg:w-1/4 m-10 lg:m-32">
+                <div class="image w-1/2 lg:w-1/4 m-10 lg:mt-28 lg:ml-36 lg:mb-20 ">
                   <img src="~assets/png/106-2.png" alt="" />
                 </div>
                 <div

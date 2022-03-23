@@ -16,8 +16,14 @@ module.exports = {
 
             },
             fontSize: {
+                '0.45': '.45rem',
                 '0.5': '.5rem',
+                '0.8': '.8rem',
                 '45px': '45px',
+            },
+            transitionProperty: {
+                'height': 'height',
+                'spacing': 'margin, padding',
             },
 
 
@@ -51,6 +57,13 @@ module.exports = {
 
 
         },
+    },
+    variants: {
+        width: ["responsive", "hover", "focus"],
+        position: ["responsive", "hover", "focus"],
+        gridTemplateColumns: ["responsive", "hover", "focus"],
+        gridColumnEnd: ["responsive", "hover", "focus"],
+        gridColumnStart: ["responsive", "hover", "focus"],
     },
 
     plugins: [],
