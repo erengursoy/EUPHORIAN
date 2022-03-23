@@ -8,7 +8,7 @@
                   title
                   text-center
                   py-10
-                  learn-more-title
+                  text-shadow-learn-more-title
                   MostraNuova
                   font-semibold
                 "
@@ -31,7 +31,7 @@
                   py-10
                   MostraNuova
                   font-semibold
-                  learn-more-title
+                  text-shadow-learn-more-title
                 "
               >
                 <h1 class="text-2xl md:text-4xl lg:text-5xl">Who is Euphorian?</h1>
@@ -50,7 +50,7 @@
                   py-10
                   MostraNuova
                   font-semibold
-                  learn-more-title
+                  text-shadow-learn-more-title
                 "
               >
                 <h1 class="text-2xl md:text-4xl lg:text-5xl">What’s the Utility of being Euphorian?</h1>
@@ -69,7 +69,7 @@
                   font-semibold
                   py-10
                   MostraNuova
-                  learn-more-title
+                  text-shadow-learn-more-title
                 "
               >
                 <h1 class="text-2xl md:text-4xl lg:text-5xl">Our Vision</h1>
@@ -87,7 +87,7 @@
                   font-semibold
                   py-10
                   MostraNuova
-                  learn-more-title
+                  text-shadow-learn-more-title
                 "
               >
                 <h1 class="text-2xl md:text-4xl lg:text-5xl">Our Mission</h1>

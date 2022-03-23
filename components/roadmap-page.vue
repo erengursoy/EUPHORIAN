@@ -4,7 +4,7 @@
           class="
             text-white text-center text-5xl lg:text-8xl
             MostraNuova
-            roadmap-title-shadow
+            text-shadow-roadmap-title-shadow
             font-bold
             my-24
           "

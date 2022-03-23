@@ -4,7 +4,7 @@
           class="
             text-white text-center text-5xl lg:text-8xl
             MostraNuova
-            roadmap-title-shadow
+            text-shadow-roadmap-title-shadow
             font-bold
             my-24
           "
@@ -15,7 +15,7 @@
           <div class="grid grid-rows-1">
             <div class="grid grid-cols-1">
               <div class="content text-white px-10 lg:px-20">
-                <div class="title learn-more-title Helvetica font-semibold">
+                <div class="title text-shadow-learn-more-title Helvetica font-semibold">
                   <h1 class="text-lg md:text-2xl lg:text-45px">1. What is Euphorian Apes Club?</h1>
                 </div>
                 <div class="text Helvetica font-semibold py-14">
@@ -24,7 +24,7 @@
                     Apes.
                   </p>
                 </div>
-                <div class="title learn-more-title Helvetica font-semibold">
+                <div class="title text-shadow-learn-more-title Helvetica font-semibold">
                   <h1 class="text-lg md:text-2xl lg:text-45px">2. How can I get an Euphorian Ape?</h1>
                 </div>
                 <div class="text Helvetica font-semibold py-14">
@@ -34,7 +34,7 @@
                     marketplace Opensea.
                   </p>
                 </div>
-                <div class="title learn-more-title Helvetica font-semibold">
+                <div class="title text-shadow-learn-more-title Helvetica font-semibold">
                   <h1 class="text-lg md:text-2xl lg:text-45px">3.When can I mint?</h1>
                 </div>
                 <div class="text Helvetica font-semibold py-14">
@@ -43,7 +43,7 @@
                     pre-sale and public sale will be announced soon!
                   </p>
                 </div>
-                <div class="title learn-more-title Helvetica font-semibold">
+                <div class="title text-shadow-learn-more-title Helvetica font-semibold">
                   <h1 class="text-lg md:text-2xl lg:text-45px">4.How much will they cost?</h1>
                 </div>
                 <div class="text Helvetica font-semibold py-14">
@@ -51,7 +51,7 @@
                     Each artwork will cost 0.08 ETH + gas fees.
                   </p>
                 </div>
-                <div class="title learn-more-title Helvetica font-semibold">
+                <div class="title text-shadow-learn-more-title Helvetica font-semibold">
                   <h1 class="text-lg md:text-2xl lg:text-45px">5.Other Key Information:</h1>
                 </div>
                 <div class="text Helvetica font-semibold py-14">

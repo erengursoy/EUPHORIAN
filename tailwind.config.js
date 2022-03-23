@@ -25,6 +25,14 @@ module.exports = {
                 'height': 'height',
                 'spacing': 'margin, padding',
             },
+            textShadow: {
+                'menu': '0px 1px 20px red, 0px 1px 20px red, 0px 1px 20px red',
+                'logo-text-shadow': '0px 1px 20px red, 0px 1px 20px red, 0px 1px 20px red;',
+                'roadmap-title-shadow': '-1px 1px 8px #c9a814, -1px 9px 15px #c9a814, -2px -5px 12px #c9a814;',
+                'learn-more-title': '0px 0px 20px red, 0px 0px 20px red, 0px 0px 20px red, 0px 0px 20px red;',
+                'footer-text-shadow': '-1px 1px 8px #ffd100, -1px 9px 15px #ffd104, -2px -5px 12px #ffd100;',
+
+            },
 
 
             backdropBrightness: {
@@ -66,5 +74,7 @@ module.exports = {
         gridColumnStart: ["responsive", "hover", "focus"],
     },
 
-    plugins: [],
+    plugins: [
+        require('tailwindcss-textshadow')
+    ],
 }

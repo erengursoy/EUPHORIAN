@@ -4,7 +4,7 @@
           class="
             text-white text-center text-5xl lg:text-8xl
             MostraNuova
-            roadmap-title-shadow
+            text-shadow-roadmap-title-shadow
             font-bold
             my-24
           "
@@ -19,7 +19,7 @@
                   title
                   text-center
                   py-10
-                  learn-more-title
+                  text-shadow-learn-more-title
                   MostraNuova
                   font-semibold
                 "
@@ -49,7 +49,7 @@
                   py-10
                   MostraNuova
                   font-semibold
-                  learn-more-title
+                  text-shadow-learn-more-title
                   mt-8
                 "
               >
@@ -73,7 +73,7 @@
                   py-10
                   MostraNuova
                   font-semibold
-                  learn-more-title
+                  text-shadow-learn-more-title
                   mt-8
                 "
               >

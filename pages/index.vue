@@ -8,7 +8,7 @@
           </div>
           <div class="col-span-3 md:mb-4 lg:mb-8 self-center">
             <div class="text-0.8 md:text-3xl lg:text-4xl xl:text-5xl text-white MostraNuova">
-              <h1 class="logo-text-shadow tracking-wider font-semibold mb-0 md:mb-1 lg:mb-4">
+              <h1 class="text-shadow-logo-text-shadow tracking-wider font-semibold mb-0 md:mb-1 lg:mb-4">
                 EUPHORIAN APES CLUB
               </h1>
             </div>
@@ -23,6 +23,8 @@
                   lg:mr-3 xl:mr-10
                   MostraNuova
                   hover:text-gray-400
+                  hover:text-shadow-menu
+
                   transform
         transition-all
                 "
@@ -38,6 +40,7 @@
                   lg:mr-3 xl:mr-10
                   MostraNuova
                  hover:text-gray-400
+                 hover:text-shadow-menu
                   transform
         transition-all
                 "
@@ -53,6 +56,7 @@
                   lg:mr-3 xl:mr-9
                   MostraNuova
                   hover:text-gray-400
+                  hover:text-shadow-menu
                   transform
         transition-all
                 "
@@ -68,6 +72,7 @@
                   lg:mr-3 xl:mr-9
                   MostraNuova
                   hover:text-gray-400
+                  hover:text-shadow-menu
                   transform
         transition-all
                 "
@@ -75,16 +80,18 @@
                 >TEAM</a
               >
               <a
+              @click.prevent="scrollTO('faq')"
                 class="
                   text-white text-0.45 md:text-lg
                   lg:text-lg xl:text-xl
                   font-semibold
                   lg:mr-3 xl:mr-9
                   MostraNuova
-                  hover:text-gray-400 transform
+                  hover:text-gray-400
+                  hover:text-shadow-menu transform
         transition-all
                 "
-                href=""
+                href="#faq"
                 >FAQ</a
               >
             </div>
@@ -166,7 +173,7 @@
                 class="
                   title
                   text-center text-white
-                  learn-more-title
+                  text-shadow-learn-more-title
                   MostraNuova
                   font-semibold
                 "
@@ -206,7 +213,7 @@
           class="
             text-white text-center text-lg
             Helvetica
-            footer-text-shadow
+            text-shadow-footer-text-shadow
             font-bold
            
           "
