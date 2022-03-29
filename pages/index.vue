@@ -310,10 +310,11 @@ export default {
       charSlide: [
         require("~/assets/png/1.png"),
         require("~/assets/png/2.png"),
+        require("~/assets/png/3.png"),
+        require("~/assets/png/4.png"),
+        require("~/assets/png/5.png"),
         require("~/assets/png/6.png"),
         require("~/assets/png/7.png"),
-        require("~/assets/png/1.png"),
-        require("~/assets/png/2.png"),
       ],
     };
   },

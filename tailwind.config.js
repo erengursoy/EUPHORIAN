@@ -37,6 +37,9 @@ module.exports = {
                 'footer-text-shadow': '-1px 1px 8px #ffd100, -1px 9px 15px #ffd104, -2px -5px 12px #ffd100;',
 
             },
+            maxWidth: {
+                '270': '270px',
+            },
 
 
             backdropBrightness: {
