@@ -19,6 +19,10 @@ module.exports = {
                 '0.45': '.45rem',
                 '0.5': '.5rem',
                 '0.8': '.8rem',
+                '0.9': '.9rem',
+                '0.99': '.99',
+                '1.5rem': '1.5rem',
+                '2rem': '2rem',
                 '45px': '45px',
             },
             transitionProperty: {
@@ -38,6 +42,10 @@ module.exports = {
             backdropBrightness: {
                 490: '4.9',
 
+            },
+            transitionProperty: {
+                'height': 'height',
+                'spacing': 'margin, padding',
             },
 
             borderRadius: {
